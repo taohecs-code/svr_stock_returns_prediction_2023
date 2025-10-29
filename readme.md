@@ -1,8 +1,6 @@
 # Stock Return Prediction Using Machine Learning Techniques
 
-**Author:** Tao He (Northeastern University)  
-**Co-Author / Supervisor:** Prof. Miquel Noguer i Alonso, New York University  
-**Date:** March 2024  
+**Author:** Tao He 
 **DOI:** [10.1201/9781003508816-56](https://doi.org/10.1201/9781003508816-56)  
 **Conference:** *2023 International Conference on Financial Management and the Digital Economy (ICFMDE 2023)*  
 **Journal:** *Advances in Data Science and Intelligent Systems* (Taylor & Francis, 2024)
