@@ -21,11 +21,9 @@ PACF analyses. Grid search and cross-validation methods are then used to pinpoin
 factors. The output of both models is then evaluated using metrics like MAE, MSE, and RMSE before
 prediction values are produced. The SVR model performs better than other models, which suggests that it
 could be a good option for future stock return forecasting projects based on empirical evidence.
+
 ---
 
 ### 📄 Paper
 > Full text available in [`paper.pdf`](./paper.pdf)
 
----
-
-### 📚 Citation
