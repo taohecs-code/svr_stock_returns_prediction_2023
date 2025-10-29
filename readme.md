@@ -24,6 +24,6 @@ could be a good option for future stock return forecasting projects based on emp
 
 ---
 
-### 📄 Paper
+### Paper
 > Full text available in [`paper.pdf`](./paper.pdf)
 
