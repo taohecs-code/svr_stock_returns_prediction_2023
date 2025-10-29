@@ -1,4 +1,4 @@
-# Stock Return Prediction Using Machine Learning Techniques
+# Stock Returns Prediction: Comparison between ARIMA and Support Vector Regression
 
 **Author:** Tao He 
 **DOI:** [10.1201/9781003508816-56](https://doi.org/10.1201/9781003508816-56)  
